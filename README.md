@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/gumslone" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # wled-controller-board
 esp-01 based wled controller board, for 5V ws2812b and sk6812 led strips and matrixes,
 
