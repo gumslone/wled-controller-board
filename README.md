@@ -9,3 +9,4 @@ gerbers are located in the production files folder
 
 <img src="https://github.com/gumslone/wled-controller-board/blob/main/images/2021-11-17T23_00_03.130Z-IMG_9320.jpg?raw=true" width=400>
 
+<img src="https://github.com/gumslone/wled-controller-board/blob/main/images/Wiring.jpg?raw=true" width=400>
